@@ -33,5 +33,5 @@ def validate_and_cleanup_proxies():
     
     print("All proxies up to date")
 
-if __name__ == "__main__":
-    validate_and_cleanup_proxies()
+# if __name__ == "__main__":
+#     validate_and_cleanup_proxies()

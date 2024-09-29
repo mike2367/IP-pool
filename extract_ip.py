@@ -39,9 +39,9 @@ def get_random_proxy():
         'https': https
     }
 
-if __name__ == "__main__":
-    proxy = get_random_proxy()
-    if proxy:
-        https_status = proxy['https'].capitalize()
-        print(f"Random proxy: {proxy['ip']}:{proxy['port']} | Country: {proxy['country']} | HTTPS: {https_status}")
+# if __name__ == "__main__":
+#     proxy = get_random_proxy()
+#     if proxy:
+#         https_status = proxy['https'].capitalize()
+#         print(f"Random proxy: {proxy['ip']}:{proxy['port']} | Country: {proxy['country']} | HTTPS: {https_status}")
 
