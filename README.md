@@ -22,4 +22,4 @@ Crawl free ip from three public ip website, stored in local Redis after data cle
 
 # Running
 Clone the source code, run start.py for auto crawl and validation through. </br>
-Proxy API: extract_ip.py/get_random_proxy(), which will return a dict of ip informations
+Proxy API: extract_ip.py/get_random_proxy(), which will return a dict of ip informations.
