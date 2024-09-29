@@ -1,4 +1,4 @@
-# Proxypool
+# ProxyPool
 Auto maintained personal IP pool API.
 
 # Target 
