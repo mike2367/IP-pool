@@ -21,5 +21,5 @@ Crawl free ip from three public ip website, stored in local Redis after data cle
 <img src="https://github.com/user-attachments/assets/da556099-3c2b-4710-a97a-c140643d38f5" width="500px" length="300px">
 
 # Running
-Clone the source code, run start.py for auto crawl and validation through. </br>
-Proxy API: extract_ip.py/get_random_proxy(), which will return a dict of ip informations.
+- Clone the source code, run start.py for auto crawl and validation through. </br>
+- Proxy API: extract_ip.py/get_random_proxy(), which will return a dict of ip informations.
