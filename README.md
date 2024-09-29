@@ -1,2 +1,2 @@
-# IP-pool
+# Proxypool
 Auto maintained personal IP pool
