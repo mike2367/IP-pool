@@ -14,7 +14,7 @@ Crawl free ip from three public ip website, stored in local Redis after data cle
 - ip proxy test/usage
 
 # Result segments:
-- ip: ipv4 ip adress with port, example: 51.161.56.52:80
+- ip: ipv4 ip adress with port, example: 51.161.56.52
 - port: corresponding port number
 - country: the ip location, example: Singapore
 - https: whether the address supports https protocol
