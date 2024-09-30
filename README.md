@@ -2,7 +2,7 @@
 Auto maintained personal IP pool API.
 
 # Target 
-Crawl free ip from three public ip website, stored in local Redis after data cleaning. Key-value pair in Redis will be automatically examined cycling by 10 min.</br>
+Crawl free ip from three public ip website, stored in local Redis after data cleaning. Key-value pair in Redis will be automatically examined cycling by 10 min. Daily stable IP about 300+ </br>
 ## Original url:
 - Free-proxy-list: [https://free-proxy-list.net/](https://free-proxy-list.net/) </br>
 - Xiaohuan http: [https://ip.ihuan.me/?page=b97827cc](https://ip.ihuan.me/?page=b97827cc) </br>
