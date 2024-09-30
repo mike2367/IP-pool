@@ -1,4 +1,4 @@
-# Proxypool
+# ProxyPool
 Auto maintained personal IP pool API.
 
 # Target 
@@ -18,8 +18,13 @@ Crawl free ip from three public ip website, stored in local Redis after data cle
 - port: corresponding port number
 - country: the ip location, example: Singapore
 - https: whether the address supports https protocol
-<img src="https://github.com/user-attachments/assets/da556099-3c2b-4710-a97a-c140643d38f5" width="500px" length="300px">
+<img src="https://github.com/user-attachments/assets/da556099-3c2b-4710-a97a-c140643d38f5" width="700px" length="700px">
 
 # Running
-Clone the source code, run start.py for auto crawl and validation through. </br>
-Proxy API: extract_ip.py/get_random_proxy(), which will return a dict of ip informations.
+- Clone the source code, run start.py for auto crawl and validation through. </br>
+- Proxy API: extract_ip.py/get_random_proxy(), which will return a dict of ip informations.
+- A stable VPN is required for Chinese users.
+
+# This project is supported by Cursor IDE
+<img src="https://github.com/user-attachments/assets/16eff516-dcd6-45d6-a1b6-ba58121707cc" width="700px" length="700px">
+
