@@ -119,6 +119,6 @@ class XH_Spider:
             time.sleep(random.randint(1, 3))
             page_count += 1
 # To execute the spider, uncomment the following lines:
-if __name__ == "__main__":
-    spider = XH_Spider()
-    spider.run()
+# if __name__ == "__main__":
+#     spider = XH_Spider()
+#     spider.run()

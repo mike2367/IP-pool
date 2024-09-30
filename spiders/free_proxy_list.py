@@ -88,6 +88,6 @@ class FPL_Spider:
             self.parse_html(html)
         print(f"Valid proxies: {self.valid_count}")
 
-if __name__ == "__main__":
-    spider = FPL_Spider()
-    spider.run()
+# if __name__ == "__main__":
+#     spider = FPL_Spider()
+#     spider.run()

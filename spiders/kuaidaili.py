@@ -100,6 +100,6 @@ class KDL_Spider:
         print(f"Valid proxies found: {self.valid_count}")
 
 # To execute the spider, uncomment the following lines:
-if __name__ == "__main__":
-    spider = KDL_Spider()
-    spider.run()
+# if __name__ == "__main__":
+#     spider = KDL_Spider()
+#     spider.run()
