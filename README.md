@@ -1,5 +1,5 @@
 # ProxyPool
-Auto maintained personal IP pool API.
+Auto maintained IP pool with API.
 
 # Target 
 Crawl free ip from three public ip website, stored in local Redis after data cleaning. Key-value pair in Redis will be automatically examined cycling by 10 min. Daily stable IP about 300+.</br>
